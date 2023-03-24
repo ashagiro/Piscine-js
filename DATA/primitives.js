@@ -1,0 +1,1 @@
+const str = "string", num = 10, bool = true, undef = undefined;
